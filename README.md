@@ -20,7 +20,7 @@
     
 </div><br>
 
-![Snake animation](https://github.com/rheneaaa/rheneaaa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rheneaaa/rheneaaa/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado por tecnologia.<br>
 Tecnologia que move o mundo!
